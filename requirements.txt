@@ -1,0 +1,4 @@
+clyngor
+flask
+flask_cors
+requests
